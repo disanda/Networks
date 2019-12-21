@@ -5,3 +5,5 @@
 一个 KL 散度
 
 完事
+
+参考:https://github.com/wiseodd/generative-models
