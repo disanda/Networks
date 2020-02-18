@@ -53,5 +53,8 @@
      -第五个参数losses:损失函数对象组成的字典
      -第六个参数configs["traning"]:关于训练设置参数的字典
      -第七个参数logger:自定义的Logger类
+     
+ ## 感谢:
+ https://github.com/lisc55/InfoGAN
 
   
