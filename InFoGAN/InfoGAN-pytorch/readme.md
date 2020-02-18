@@ -55,6 +55,9 @@
      -第七个参数logger:自定义的Logger类
      
  ## 感谢:
+ tf:
  https://github.com/lisc55/InfoGAN
-
+ 
+ torch:
+ https://github.com/raahii/infogan-pytorch
   
