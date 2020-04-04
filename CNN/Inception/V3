@@ -1,0 +1,8 @@
+# 简介
+14年Imagenet图片分类比赛的冠军，也是当前最常用的结构，比如用在GAN生成图片的评价指标IS,FID
+
+![Image1](https://i.loli.net/2020/04/04/TqkiQlHV9DX34rv.png)
+
+
+
+https://cloud.google.com/tpu/docs/inception-v3-advanced
